@@ -1,0 +1,38 @@
+
+[
+    {
+        "id": 1,
+        "name": "New Delhi",
+        "code": "NDLS",
+        "city": "New Delhi",
+        "zone": "Northern Railway"
+    },
+    {
+        "id": 2,
+        "name": "Mumbai Central",
+        "code": "MMCT",
+        "city": "Mumbai",
+        "zone": "Western Railway"
+    },
+    {
+        "id": 3,
+        "name": "Howrah Junction",
+        "code": "HWH",
+        "city": "Kolkata",
+        "zone": "Eastern Railway"
+    },
+    {
+        "id": 4,
+        "name": "Chennai Central",
+        "code": "MAS",
+        "city": "Chennai",
+        "zone": "Southern Railway"
+    },
+    {
+        "id": 5,
+        "name": "Bengaluru City",
+        "code": "SBC",
+        "city": "Bengaluru",
+        "zone": "South Western Railway"
+    }
+]
